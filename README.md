@@ -1,5 +1,5 @@
 # Dialect Classification 
-<img width="612" height="244" alt="image" src="https://github.com/user-attachments/assets/df107b47-c9ed-4336-b141-11efe7a92726" />
+<img width="900" height="244" alt="image" src="https://github.com/user-attachments/assets/df107b47-c9ed-4336-b141-11efe7a92726" />
 
 This project aims to build a classification model for 5 unique dialects of English: Scottish, Australian, Jamaican Patois, Nigerian Pidgin, and Southern U.S. 
 
